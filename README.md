@@ -11,4 +11,4 @@ Skills: PHP/Laravel/VUE JS / REACT / JS/Bootsrap / HTML / CSS
 
 ### Languages and Tools:
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=prakash568&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
