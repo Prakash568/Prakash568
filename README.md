@@ -1,5 +1,5 @@
 ### Hi there 👋, Prakash Shrestha
-#### Development
+
 Hi, I’m Prakash Shrestha from Melbourne, I’m interested in leaning new Technologies.
 
 Skills: PHP/Laravel/VUE JS / REACT / JS/Bootsrap / HTML / CSS
