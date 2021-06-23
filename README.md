@@ -1,7 +1,12 @@
-Hi, I’m Prakash Shrestha from Melbourne, I’m interested in leaning new Technologies.I have skills on Laravel, PHP, Wordpress, Vue.js, React.js, JQuery, JavaScript and I enjoy learning new languages and frameworks.
-You can check out my LinkedIn account at https://www.linkedin.com/in/shrestha-prakash/
+### Hi there 👋, Prakash Shrestha
+#### Development
+Hi, I’m Prakash Shrestha from Melbourne, I’m interested in leaning new Technologies.
 
-<!---
-Prakash568/Prakash568 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: PHP/Laravel/VUE JS / REACT / JS/Bootsrap / HTML / CSS
+
+- 🔭 I’m currently working on Laravel 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prakash568)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shrestha-prakash/)  
+
+
